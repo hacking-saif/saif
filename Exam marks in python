@@ -1,0 +1,9 @@
+Print(hello student)
+M1=int(input(enter marathi marks)
+M2=int(input(enter hindi marks)
+M3=int(input(enter english marks)
+M4=int(input(enter maths marks)
+M5=int(input(enter history marks)
+M6=int(input(enter science marks)
+
+Print[M1,M2,M3,M4,M5,M6,]
